@@ -1,10 +1,10 @@
-# Azure Static Web Apps
+# INSERT TITLE
 
 ## Presentation resources
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Name](twitter (optional)) | Recording Link | Deck Link |
+| [Name](https://twitter.com/<handle>) | Recording Link | Deck Link |
 
 ## Continue learning
 

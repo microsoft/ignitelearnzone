@@ -11,7 +11,7 @@ The journey of course doesn't end after one session. Fortunately, we're here to 
 - [Becoming a green developer](session-resources/green-tech.md)
 - [Create great apps without the CS degree using Power Apps](session-resources/power-apps.md)
 - [Get started on your HealthTech journey](session-resources/health-tech.md)
-- [Dynamic websites with Azure Static Web Apps](session-resources/azure-static-web-apps.md)
+- [Dynamic websites with INSERT TITLE](session-resources/azure-static-web-apps.md)
 - [The data behind space exploration with NASA](session-resources/nasa-machine-learning.md)
 - [Getting started with machine learning using Python](session-resources/machine-learning.md)
 - [Intro to GitHub](session-resources/github.md)
