@@ -1,6 +1,6 @@
-# Ignite Learn Zone
+# Microsoft Ignite Learning Zone
 
-Thank you for attending the Ignite Learn Zone! We are thrilled you were able to join us! Hopefully we've inspired you to take the next steps and continue your journey.
+Thank you for attending the Microsoft Ignite Learning Zone! We are thrilled you were able to join us! Hopefully we've inspired you to take the next steps and continue your journey.
 
 The journey of course doesn't end after one session. Fortunately, we're here to help! We've provided a set of resources and next steps so you can continue to grow.
 
@@ -11,9 +11,9 @@ The journey of course doesn't end after one session. Fortunately, we're here to 
 - [Becoming a green developer](session-resources/green-tech.md)
 - [Create great apps without the CS degree using Power Apps](session-resources/power-apps.md)
 - [Get started on your HealthTech journey](session-resources/health-tech.md)
-- [Dynamic websites with INSERT TITLE](session-resources/azure-static-web-apps.md)
+- [Dynamic websites with Azure Static Web Apps](session-resources/azure-static-web-apps.md)
 - [The data behind space exploration with NASA](session-resources/nasa-machine-learning.md)
-- [Getting started with machine learning using Python](session-resources/machine-learning.md)
+- [Getting started with Machine Learning using Python](session-resources/machine-learning.md)
 - [Intro to GitHub](session-resources/github.md)
 - [The interns DevOpsin' it for themselves](session-resources/devops.md)
 
