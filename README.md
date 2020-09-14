@@ -1,8 +1,8 @@
 # Microsoft Ignite Learning Zone
 
-Thank you for attending the Microsoft Ignite Learning Zone! We are thrilled you were able to join us! Hopefully we've inspired you to take the next steps and continue your journey.
+Thank you for attending the Intro to Tech Skills sessions in the new Microsoft Ignite Learning Zone! We are thrilled you were able to join us! Whether you are a student or a professional thinking about a new career in tech, we hope we've inspired you to explore new skills.
 
-The journey of course doesn't end after one session. Fortunately, we're here to help! We've provided a set of resources and next steps so you can continue to grow.
+Of course, your journey doesn't end after a couple of sessions, and we're here to help! We've provided a set of resources and next steps from all twelve sessions to guide you as you continue to expand your skillset.
 
 - [Visual Studio Code - your code editor everywhere](session-resources/visual-studio-code.md)
 - [The cloud is more than just a thing in the sky](session-resources/azure-cloud.md)
@@ -15,7 +15,7 @@ The journey of course doesn't end after one session. Fortunately, we're here to 
 - [The data behind space exploration with NASA](session-resources/nasa-machine-learning.md)
 - [Getting started with Machine Learning using Python](session-resources/machine-learning.md)
 - [Intro to GitHub](session-resources/github.md)
-- [The interns DevOpsin' it for themselves](session-resources/devops.md)
+- [The interns DevOpsin' it for themselves - a beginner's story](session-resources/devops.md)
 
 ## Contributing
 
