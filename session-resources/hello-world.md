@@ -14,4 +14,3 @@ Learning how to program can be intimidating. This session will help you say "Hel
 - [Learn how to program in C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/)
 - [Learn about programming in JavaScript with Node.js](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-nodejs/)
   - **Note:** This learning path is slightly more advanced, and assumes some knowledge of JavaScript already
-
