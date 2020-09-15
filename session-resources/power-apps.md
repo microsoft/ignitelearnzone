@@ -6,10 +6,18 @@ Power Apps empowers everyday people without a Computer Science degree to solve p
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Name](https://twitter.com/<handle>) | Recording Link | Deck Link |
+| [Tasha Scott](https://twitter.com/TashasEv) | Recording Link | Deck Link |
+| [Megan Mallin](https://twitter.com/MegMallin) | Recording Link | Deck Link |
+| [Dawude Iddrisu]() | Recording Link | Deck Link |
+
+
 
 ## Continue learning
 
-- Resource one
-- Resource two
-- Resource three
+- [Power Apps Learning Paths](https://aka.ms/learnpowerapps)
+- [Learn Module: Getting Started with Power Apps](https://docs.microsoft.com/en-us/learn/modules/get-started-with-powerapps/)
+- [Power Apps Video and Tutorial Gallery](https://aka.ms/powerappsgallery)
+- [Blog: Create an App from Power Apps templates](https://powerapps.microsoft.com/en-us/blog/using-app-template/)
+- [Power Apps Community App Samples](https://aka.ms/PACommunitySamples)
+- [Power Apps User Groups](https://www.powerappsug.com/home)
+- [Power Apps community on Twitter](https://twitter.com/search?q=%23PowerAddicts)
