@@ -1,4 +1,4 @@
-# Microsoft Ignite Learning Zone
+# Microsoft Ignite Learning Zone - Intro to Tech Skills
 
 Thank you for attending the Intro to Tech Skills sessions in the new Microsoft Ignite Learning Zone! We are thrilled you were able to join us! Whether you are a student or a professional thinking about a new career in tech, we hope we've inspired you to explore new skills.
 
