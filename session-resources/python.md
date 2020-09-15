@@ -6,10 +6,10 @@ Taking the first step into being a developer can be overwhelming. There's a lot 
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Name](https://twitter.com/<handle>) | Recording Link | Deck Link |
+| [April Speight](https://twitter.com/vogueandcode) | Recording Link | Deck Link |
 
 ## Continue learning
 
-- Resource one
-- Resource two
-- Resource three
+- [Take your First Steps with Python](https://docs.microsoft.com/learn/paths/python-first-steps/)
+- [Getting Started with Python](https://github.com/microsoft/c9-python-getting-started)
+- [Python for Beginners](https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=python-c9-niner)
