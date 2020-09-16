@@ -7,10 +7,10 @@ Odds are you've heard of "The Cloud." But what is it? And how do we use it? We'l
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Name](https://twitter.com/<handle>) | Recording Link | Deck Link |
+| [Heather Brevard](https://www.linkedin.com/in/heatherbrevard/) & [Michael Aldridge](https://www.linkedin.com/in/mdaldridge95/)| Recording Link | Deck Link |
 
 ## Continue learning
 
-- Resource one
-- Resource two
-- Resource three
+- [Deploy an Azure Webapp from Visual Studio](https://docs.microsoft.com/en-us/visualstudio/deployment/quickstart-deploy-to-azure?view=vs-2019)
+- [Example Code](https://github.com/hbcountry/TEALS-Demo-WebApp)
+- [Deploy a java app to Azure](https://docs.microsoft.com/en-us/azure/app-service/quickstart-java?tabs=javase&pivots=platform-linux)
