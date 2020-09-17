@@ -6,10 +6,18 @@ Ensuring smooth deployment of an application typically involves numerous people 
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Name](https://twitter.com/<handle>) | Recording Link | Deck Link |
+| [Jay Gordon](https://twitter.com/jaydestro) | Recording Link | Deck Link |
+| [Damian Brady](https://twitter.com/damovisa) | Recording Link | Deck Link |
+| [Ilia Ryabukhin](https://twitter.com/iliaryabukhin) | Recording Link | Deck Link |
 
 ## Continue learning
 
-- Resource one
-- Resource two
-- Resource three
+- [DevOps at Microsoft](https://cda.ms/1Dq)
+- [Azure Fundamentals Learning Path](https://cda.ms/1Dr)
+- [Evolve your DevOps practices Learning Path](https://cda.ms/1Dt)
+- [Introduce the foundation pillars of DevOps: Culture and Lean Product](https://cda.ms/1Ds)
+- [Azure Static Web Apps (Preview)](https://cda.ms/1Dk)
+- [What is Azure Static Web Apps Preview?](https://cda.ms/1Dm)
+- [Tutorial: Publish a Hugo site to Azure Static Web Apps Preview](https://cda.ms/1Dn)
+- [Deploy to Azure using GitHub Actions](https://cda.ms/1Dp)
+- [DevOps Culture by John Willis](https://itrevolution.com/devops-culture-part-1/)
