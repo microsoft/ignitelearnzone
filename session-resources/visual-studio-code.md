@@ -6,10 +6,14 @@ With Visual Studio Code, you can code from anywhere - including your own browse
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Name](https://twitter.com/<handle>) | Recording Link | Deck Link |
+| [Sana Ajani](https://twitter.com/sana_ajani) | Recording Link | Deck Link |
+| [Rory Preddy](https://twitter.com/rorypreddy) | Recording Link | Deck Link |
 
 ## Continue learning
 
-- Resource one
-- Resource two
-- Resource three
+- [What is VS Code?](https://code.visualstudio.com/learn/)
+- [Getting Started Videos](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6)
+- [Learn more about Dev Containers](https://www.youtube.com/watch?v=Uvf2FVS1F8k&t=2s)
+- [Python + Wonder Woman project in VS Code](https://microsoft.github.io/WW84-Python-Lessons/site/secret_message.html)
+- [Learn what's coming up for VS Code](https://github.com/microsoft/vscode/wiki/Roadmap)
+
