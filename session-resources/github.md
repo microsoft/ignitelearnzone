@@ -6,10 +6,12 @@ GitHub has long served as one of the most popular collaboration tools for develo
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Name](https://twitter.com/<handle>) | Recording Link | Deck Link |
+| [Sarah Guthals, PhD](https://twitter.com/drguthals) | Recording Link | Deck Link |
 
 ## Continue learning
 
-- Resource one
-- Resource two
-- Resource three
+- [Collaborate with others with Markdown and GitHub Pages](https://docs.microsoft.com/en-us/learn/paths/collaborate-markdown-github-pages/)
+- [Build community-driven software projects on GitHub](https://docs.microsoft.com/en-us/learn/paths/build-community-driven-projects-github/)
+- [Working with GitHub in Visual Studio Code](https://code.visualstudio.com/docs/editor/github)
+- [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+- [Intro to GitHub repository with the Shareboard](https://github.com/sguthals/talkswithdrg/tree/main/2020/ignite/intro-to-github)
