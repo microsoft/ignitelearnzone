@@ -6,7 +6,7 @@ Ensuring smooth deployment of an application typically involves numerous people 
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Jay Gordon](https://twitter.com/jaydestro) | Recording Link | Deck Link |
+| [Jay Gordon](https://twitter.com/jaydestro) | Recording Link | [Deck Link](https://microsoft.sharepoint.com/:p:/t/StudentZoneatBuild2020/Ed8cjRuGkOVFmwDU_IO5HvwBr1pnO2HjO7I5IPAbfK-M7w?e=XgLa0k)|
 | [Damian Brady](https://twitter.com/damovisa) | Recording Link | Deck Link |
 | [Ilia Ryabukhin](https://twitter.com/iliaryabukhin) | Recording Link | Deck Link |
 
