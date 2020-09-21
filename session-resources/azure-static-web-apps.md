@@ -6,9 +6,9 @@
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Christopher Harrison](https://twitter.com/geektrainer) | Recording Link | Deck Link |
-| Shiny Zhu | Recording Link | Deck Link |
-| Korede Bashir | Recording Link | Deck Link |
+| [Christopher Harrison](https://twitter.com/geektrainer) | Coming Soon! | Coming Soon! |
+| [Shiny Zhu](https://twitter.com/shinyzhu) | Coming Soon! | Coming Soon! |
+| [Korede Bashir](https://twitter.com/_bashirk) | Coming Soon! | Coming Soon! |
 
 ## Continue learning
 

@@ -6,7 +6,9 @@ Taking the first step into being a developer can be overwhelming. There's a lot 
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [April Speight](https://twitter.com/vogueandcode) | Recording Link | Deck Link |
+| [April Speight](https://twitter.com/vogueandcode) | Coming Soon! | Coming Soon! |
+| [Jack Skinner](https://twitter.com/developerjack) | Coming Soon! | Coming Soon! |
+| [Francisco Bueno](https://github.com/fjbueno) | Coming Soon! | Coming Soon! |
 
 ## Continue learning
 

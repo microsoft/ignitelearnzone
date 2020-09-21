@@ -6,8 +6,10 @@ With Visual Studio Code, you can code from anywhere - including your own browse
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Sana Ajani](https://twitter.com/sana_ajani) | Recording Link | Deck Link |
-| [Rory Preddy](https://twitter.com/rorypreddy) | Recording Link | Deck Link |
+| [Sana Ajani](https://twitter.com/sana_ajani) & [Rory Preddy](https://twitter.com/rorypreddy) | Coming Soon! | Coming Soon! |
+| [Aaron Powell](https://twitter.com/slace) | Coming Soon! | Coming Soon! |
+| [Inderdeep Singh Bajwa](https://github.com/InderdeepBajwa) | Coming Soon! | Coming Soon! |
+
 
 ## Continue learning
 

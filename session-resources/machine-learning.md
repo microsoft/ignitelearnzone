@@ -6,7 +6,9 @@ You have most likely heard about AI or Machine Learning, but what is it? In this
 
 | Presenter                                       | Recording      | Slide Deck |
 | ----------------------------------------------- | -------------- | ---------- |
-| [Cassie Breviu](https://twitter.com/cassieview) | Recording Link | Deck Link  |
+| [Cassie Breviu](https://twitter.com/cassieview) | Coming Soon! | Coming Soon! |
+| [CH Hanzaila Maqsood](https://www.linkedin.com/in/ch-hanzaila) | Coming Soon! | Coming Soon! |
+| [Alexandru Petrescu](https://www.linkedin.com/in/askingalexander/) | Coming Soon! | Coming Soon! |
 
 ## Continue learning
 
@@ -14,7 +16,7 @@ You have most likely heard about AI or Machine Learning, but what is it? In this
 
 - [Take your first steps with Python](https://docs.microsoft.com/learn/paths/python-first-steps/?WT.mc_id=ignite-talk-cassieb)
 - [Discover the role of Python in space exploration](https://docs.microsoft.com/learn/paths/introduction-python-space-exploration-nasa/?WT.mc_id=ignite-talk-cassieb)
-- [Build a machine learning model](https://docs.microsoft.com/en-us/learn/modules/machine-learning-model-nasa/?WT.mc_id=ignite-talk-cassieb)
+- [Build a machine learning model](https://docs.microsoft.com/learn/modules/machine-learning-model-nasa/?WT.mc_id=ignite-talk-cassieb)
 - [Build AI solutions with Azure Machine Learning](https://docs.microsoft.com/learn/paths/build-ai-solutions-with-azure-ml-service/?WT.mc_id=ignite-talk-cassieb)
 
 ### No code/low code Learning
