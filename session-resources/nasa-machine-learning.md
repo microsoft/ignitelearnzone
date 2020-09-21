@@ -6,12 +6,14 @@ Data science is a field that influences all aspects of our scientific community,
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Sarah Guthals, PhD](https://twitter.com/drguthals) | Recording Link | Deck Link |
+| [Sarah Guthals, PhD](https://twitter.com/drguthals) | Coming Soon! | Coming Soon! |
+| [Phantip Kokilanon](https://twitter.com/PhantipK) | Coming Soon! | Coming Soon! |
+| [Barnam Bora](https://twitter.com/barnambora) | Coming Soon! | Coming Soon! |
 
 ## Continue learning
 
-- [Discover the role of Python in space exploration](https://docs.microsoft.com/en-us/learn/paths/introduction-python-space-exploration-nasa/)
-- [Classify space rocks by using Python and artificial intelligence](https://docs.microsoft.com/en-us/learn/paths/classify-space-rocks-artificial-intelligence-nasa/)
-- [Predict rocket launch delays with machine learning](https://docs.microsoft.com/en-us/learn/paths/machine-learning-predict-launch-delay-nasa/)
-- [Everything space related on Microsoft Learn](https://docs.microsoft.com/en-us/learn/topics/nasa)
+- [Discover the role of Python in space exploration](https://docs.microsoft.com/learn/paths/introduction-python-space-exploration-nasa/)
+- [Classify space rocks by using Python and artificial intelligence](https://docs.microsoft.com/learn/paths/classify-space-rocks-artificial-intelligence-nasa/)
+- [Predict rocket launch delays with machine learning](https://docs.microsoft.com/learn/paths/machine-learning-predict-launch-delay-nasa/)
+- [Everything space related on Microsoft Learn](https://docs.microsoft.com/learn/topics/nasa)
 - [The Data Behind Space Exploration with NASA repository with code solution](https://github.com/sguthals/talkswithdrg/tree/main/2020/ignite/data-in-space)

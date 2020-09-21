@@ -2,7 +2,9 @@
 
 Thank you for attending the Intro to Tech Skills sessions in the new Microsoft Ignite Learning Zone! We are thrilled you were able to join us! Whether you are a student or a professional thinking about a new career in tech, we hope we've inspired you to explore new skills.
 
-Of course, your journey doesn't end after a couple of sessions, and we're here to help! We've provided a set of resources and next steps from all twelve sessions to guide you as you continue to expand your skillset.
+Of course, your journey doesn't end after a couple of sessions, and we're here to help! We've provided a set of resources and next steps from these twelve sessions to guide you as you continue to expand your skillset.
+
+> **Note:** The Microsoft Ignite team posts session recording and PowerPoint presentations 24-48 hours after the event. Once they are available we will update the links on this site.
 
 - [Visual Studio Code - your code editor everywhere](session-resources/visual-studio-code.md)
 - [The cloud is more than just a thing in the sky](session-resources/azure-cloud.md)
