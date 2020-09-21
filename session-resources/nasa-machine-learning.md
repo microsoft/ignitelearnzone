@@ -12,8 +12,8 @@ Data science is a field that influences all aspects of our scientific community,
 
 ## Continue learning
 
-- [Discover the role of Python in space exploration](https://docs.microsoft.com/learn/paths/introduction-python-space-exploration-nasa/)
-- [Classify space rocks by using Python and artificial intelligence](https://docs.microsoft.com/learn/paths/classify-space-rocks-artificial-intelligence-nasa/)
-- [Predict rocket launch delays with machine learning](https://docs.microsoft.com/learn/paths/machine-learning-predict-launch-delay-nasa/)
-- [Everything space related on Microsoft Learn](https://docs.microsoft.com/learn/topics/nasa)
+- [Discover the role of Python in space exploration](https://docs.microsoft.com/learn/paths/introduction-python-space-exploration-nasa/?WT.mc_id=ignite2020_techseries)
+- [Classify space rocks by using Python and artificial intelligence](https://docs.microsoft.com/learn/paths/classify-space-rocks-artificial-intelligence-nasa/?WT.mc_id=ignite2020_techseries)
+- [Predict rocket launch delays with machine learning](https://docs.microsoft.com/learn/paths/machine-learning-predict-launch-delay-nasa/?WT.mc_id=ignite2020_techseries)
+- [Everything space related on Microsoft Learn](https://docs.microsoft.com/learn/topics/nasa?WT.mc_id=ignite2020_techseries)
 - [The Data Behind Space Exploration with NASA repository with code solution](https://github.com/sguthals/talkswithdrg/tree/main/2020/ignite/data-in-space)

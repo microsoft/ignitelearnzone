@@ -1,8 +1,8 @@
 # Microsoft Ignite Learning Zone - Intro to Tech Skills
 
-Thank you for attending the Intro to Tech Skills sessions in the new Microsoft Ignite Learning Zone! We are thrilled you were able to join us! Whether you are a student or a professional thinking about a new career in tech, we hope we've inspired you to explore new skills.
+Thank you for attending the Intro to Tech Skills sessions in the new Microsoft Ignite Learning Zone! We are thrilled you were able to join us! Whether you are a student or a professional thinking about a new career in tech, we hope we inspired you to explore new skills.
 
-Of course, your journey doesn't end after a couple of sessions, and we're here to help! We've provided a set of resources and next steps from these twelve sessions to guide you as you continue to expand your skillset.
+Of course, your journey doesn't end after a couple of sessions, and we're here to help! If you are a new developer, [Microsoft Learn for students](https://docs.microsoft.com/learn/roles/student) is a great place to start. Microsoft learn for students contains a large collection of learning paths designed for beginners. And down below you will find set of resources and next steps from these twelve sessions to guide you as you continue to expand your skill set.
 
 > **Note:** The Microsoft Ignite team posts session recording and PowerPoint presentations 24-48 hours after the event. Once they are available we will update the links on this site.
 
