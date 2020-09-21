@@ -12,7 +12,7 @@ Learning how to program can be intimidating. This session will help you say "Hel
 
 ## Continue learning
 
-- [Learn how to program in Python](https://docs.microsoft.com/learn/paths/python-first-steps/)
-- [Learn how to program in C#](https://docs.microsoft.com/learn/paths/csharp-first-steps/)
-- [Learn about programming in JavaScript with Node.js](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/)
+- [Learn how to program in Python](https://docs.microsoft.com/learn/paths/python-first-steps/?WT.mc_id=ignite2020_techseries)
+- [Learn how to program in C#](https://docs.microsoft.com/learn/paths/csharp-first-steps/?WT.mc_id=ignite2020_techseries)
+- [Learn about programming in JavaScript with Node.js](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?WT.mc_id=ignite2020_techseries)
   - **Note:** This learning path is slightly more advanced, and assumes some knowledge of JavaScript already

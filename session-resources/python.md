@@ -12,6 +12,6 @@ Taking the first step into being a developer can be overwhelming. There's a lot 
 
 ## Continue learning
 
-- [Take your First Steps with Python](https://docs.microsoft.com/learn/paths/python-first-steps/)
+- [Take your First Steps with Python](https://docs.microsoft.com/learn/paths/python-first-steps/?WT.mc_id=ignite2020_techseries)
 - [Getting Started with Python](https://github.com/microsoft/c9-python-getting-started)
 - [Python for Beginners](https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=python-c9-niner)

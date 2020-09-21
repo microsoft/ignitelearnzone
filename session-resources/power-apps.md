@@ -13,7 +13,7 @@ Power Apps empowers everyday people without a Computer Science degree to solve p
 ## Continue learning
 
 - [Power Apps Learning Paths](https://aka.ms/learnpowerapps)
-- [Learn Module: Getting Started with Power Apps](https://docs.microsoft.com/learn/modules/get-started-with-powerapps/)
+- [Learn Module: Getting Started with Power Apps](https://docs.microsoft.com/learn/modules/get-started-with-powerapps/?WT.mc_id=ignite2020_techseries)
 - [Power Apps Video and Tutorial Gallery](https://aka.ms/powerappsgallery)
 - [Blog: Create an App from Power Apps templates](https://powerapps.microsoft.com/blog/using-app-template/)
 - [Power Apps Community App Samples](https://aka.ms/PACommunitySamples)

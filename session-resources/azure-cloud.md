@@ -12,6 +12,6 @@ Odds are you've heard of "The Cloud." But what is it? And how do we use it? We'l
 
 ## Continue learning
 
-- [Deploy an Azure Webapp from Visual Studio](https://docs.microsoft.com/visualstudio/deployment/quickstart-deploy-to-azure?view=vs-2019)
+- [Deploy an Azure Webapp from Visual Studio](https://docs.microsoft.com/visualstudio/deployment/quickstart-deploy-to-azure?view=vs-2019&WT.mc_id=ignite2020_techseries&WT.mc_id=ignite2020_techseries)
 - [Example Code](https://github.com/hbcountry/TEALS-Demo-WebApp)
-- [Deploy a java app to Azure](https://docs.microsoft.com/azure/app-service/quickstart-java?tabs=javase&pivots=platform-linux)
+- [Deploy a java app to Azure](https://docs.microsoft.com/azure/app-service/quickstart-java?tabs=javase&pivots=platform-linux&WT.mc_id=ignite2020_techseries&WT.mc_id=ignite2020_techseries)

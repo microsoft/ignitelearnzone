@@ -12,8 +12,8 @@ GitHub has long served as one of the most popular collaboration tools for develo
 
 ## Continue learning
 
-- [Collaborate with others with Markdown and GitHub Pages](https://docs.microsoft.com/learn/paths/collaborate-markdown-github-pages/)
-- [Build community-driven software projects on GitHub](https://docs.microsoft.com/learn/paths/build-community-driven-projects-github/)
+- [Collaborate with others with Markdown and GitHub Pages](https://docs.microsoft.com/learn/paths/collaborate-markdown-github-pages/?WT.mc_id=ignite2020_techseries)
+- [Build community-driven software projects on GitHub](https://docs.microsoft.com/learn/paths/build-community-driven-projects-github/?WT.mc_id=ignite2020_techseries)
 - [Working with GitHub in Visual Studio Code](https://code.visualstudio.com/docs/editor/github)
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 - [Intro to GitHub repository with the Shareboard](https://github.com/sguthals/talkswithdrg/tree/main/2020/ignite/intro-to-github)
