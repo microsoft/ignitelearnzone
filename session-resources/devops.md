@@ -6,12 +6,14 @@ Ensuring smooth deployment of an application typically involves numerous people 
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Jay Gordon](https://twitter.com/jaydestro) | Recording Link | [Deck Link](https://microsoft.sharepoint.com/:p:/t/StudentZoneatBuild2020/Ed8cjRuGkOVFmwDU_IO5HvwBr1pnO2HjO7I5IPAbfK-M7w?e=XgLa0k)|
+| [Jay Gordon](https://twitter.com/jaydestro) | Recording Link | Deck Link |
 | [Damian Brady](https://twitter.com/damovisa) | Recording Link | Deck Link |
 | [Ilia Ryabukhin](https://twitter.com/iliaryabukhin) | Recording Link | Deck Link |
 
 ## Continue learning
 
+- [TWT Intern Code and Instructions](https://github.com/jaydestro/twtintern)
+- [Microsoft Ignite Cloud Skills Challenge](https://cda.ms/1G4)
 - [DevOps at Microsoft](https://cda.ms/1Dq)
 - [Azure Fundamentals Learning Path](https://cda.ms/1Dr)
 - [Evolve your DevOps practices Learning Path](https://cda.ms/1Dt)
