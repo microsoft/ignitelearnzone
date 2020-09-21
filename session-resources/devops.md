@@ -8,7 +8,7 @@ Ensuring smooth deployment of an application typically involves numerous people 
 | - | - | - |
 | [Jay Gordon](https://twitter.com/jaydestro) | Coming Soon! | Coming Soon! |
 | [Damian Brady](https://twitter.com/damovisa) | Coming Soon! | Coming Soon! |
-| [Ilia Ryabukhin](https://twitter.com/iliaryabukhin) | Coming Soon! | Coming Soon! |
+| [Ilia Ryabukhin](https://www.linkedin.com/in/ilia-ryabukhin-830927162) | Coming Soon! | Coming Soon! |
 
 ## Continue learning
 

@@ -7,8 +7,8 @@ The world we live in is constantly evolving; our healthcare system is grappling 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
 | [Lee Stott](https://twitter.com/lee_stott) | Coming Soon! | Coming Soon! |
-| [Oluminde Ogudandar](https://twitter.com/**account**) | Coming Soon! | Coming Soon! |
-| [Jash Jain](https://twitter.com/**account**) | Coming Soon! | Coming Soon! |
+| [Olumide Ogundare](https://twitter.com/**account**) | Coming Soon! | Coming Soon! |
+| [Yash Jain](https://twitter.com/**account**) | Coming Soon! | Coming Soon! |
 
 ## Continue learning
 
