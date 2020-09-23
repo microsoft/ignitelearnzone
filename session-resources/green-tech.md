@@ -6,7 +6,7 @@ What does it mean to be a 'green' developer? In this session you'll learn some w
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Jen Looper](https://twitter.com/jenlooper) | Coming Soon! | Coming soon! |
+| [Jen Looper](https://twitter.com/jenlooper) | [Here](https://myignite.microsoft.com/sessions/e688fdbe-73d6-45d9-bf8b-f7033b2741ab) | Coming soon! |
 | [Ayush Chauhan](https://twitter.com/heyayushh) | Coming Soon! | Coming soon! |
 | [Antony Diaz](https://twitter.com/AntonyDiS) | Coming Soon! | Coming soon! |
 
