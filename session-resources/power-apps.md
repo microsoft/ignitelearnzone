@@ -6,7 +6,7 @@ Power Apps empowers everyday people without a Computer Science degree to solve p
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Tasha Scott](https://twitter.com/TashasEv) | Coming Soon! | Coming Soon! |
+| [Tasha Scott](https://twitter.com/TashasEv) | [Here](https://myignite.microsoft.com/sessions/1763d6cf-32e0-4792-8ff7-a70096ef634d) | Coming Soon! |
 | [Megan Mallin](https://twitter.com/MegMallin) | Coming Soon! | Coming Soon! |
 | [Dawude Iddrisu](https://twitter.com/dawoodiddris) | Coming Soon! | Coming Soon! |
 
