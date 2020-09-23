@@ -6,7 +6,7 @@ Learning how to program can be intimidating. This session will help you say "Hel
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Shana Matthews](https://twitter.com/shanamatthews) | Coming Soon! | Coming Soon! |
+| [Shana Matthews](https://twitter.com/shanamatthews) | [Here](https://myignite.microsoft.com/sessions/1457f64b-1722-4379-bc76-5db87c619e20) | Coming Soon! |
 | [N R S S L Tarun Nanduri](https://www.linkedin.com/in/tarunnanduri) | Coming Soon! | Coming Soon! |
 | [Daniel Gomez](https://twitter.com/esdanielgomez) | Coming Soon! | Coming Soon! |
 
