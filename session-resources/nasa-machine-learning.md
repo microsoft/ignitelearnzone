@@ -6,9 +6,9 @@ Data science is a field that influences all aspects of our scientific community,
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Sarah Guthals, PhD](https://twitter.com/drguthals) | Coming Soon! | Coming Soon! |
-| [Phantip Kokilanon](https://twitter.com/PhantipK) | Coming Soon! | Coming Soon! |
-| [Barnam Bora](https://twitter.com/barnambora) | Coming Soon! | Coming Soon! |
+| [Sarah Guthals, PhD](https://twitter.com/drguthals) | [Start here!](https://myignite.microsoft.com/sessions/d40e4b0f-c832-422f-949a-f82309253704) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
+| [Phantip Kokilanon](https://twitter.com/PhantipK) | [Start here!](https://myignite.microsoft.com/sessions/b0527d73-b179-4220-a096-cb48a160040e) | [See readme here](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
+| [Barnam Bora](https://twitter.com/barnambora) | [Start here!](https://myignite.microsoft.com/sessions/4c4ac56c-7575-4e52-8f8b-6787f2206fb1) | [See readme here](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
 
 ## Continue learning
 
