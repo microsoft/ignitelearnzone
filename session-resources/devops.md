@@ -6,9 +6,9 @@ Ensuring smooth deployment of an application typically involves numerous people 
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Jay Gordon](https://twitter.com/jaydestro) | Coming Soon! | Coming Soon! |
-| [Damian Brady](https://twitter.com/damovisa) | Coming Soon! | Coming Soon! |
-| [Ilia Ryabukhin](https://www.linkedin.com/in/ilia-ryabukhin-830927162) | Coming Soon! | Coming Soon! |
+| [Jay Gordon](https://twitter.com/jaydestro) | [Start here!](https://myignite.microsoft.com/sessions/a5d11266-313d-4a0c-908a-67b06cf18f1e) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
+| [Damian Brady](https://twitter.com/damovisa) | [Start here!](https://myignite.microsoft.com/sessions/80a34783-6c49-4e19-89da-e95b49935c4a) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
+| [Ilia Ryabukhin](https://www.linkedin.com/in/ilia-ryabukhin-830927162) | [Start here!](https://myignite.microsoft.com/sessions/c8177ead-a256-4418-bbf6-c0c909fb7199) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
 
 ## Continue learning
 
