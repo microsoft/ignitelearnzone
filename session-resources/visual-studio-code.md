@@ -6,9 +6,9 @@ With Visual Studio Code, you can code from anywhere - including your own browse
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Sana Ajani](https://twitter.com/sana_ajani) & [Rory Preddy](https://twitter.com/rorypreddy) | [Here!](https://myignite.microsoft.com/sessions/15b37211-4a9b-4978-8e20-18c3f1c09818) | Coming Soon! |
-| [Aaron Powell](https://twitter.com/slace) | Coming Soon! | Coming Soon! |
-| [Inderdeep Singh Bajwa](https://github.com/InderdeepBajwa) | Coming Soon! | Coming Soon! |
+| [Sana Ajani](https://twitter.com/sana_ajani) & [Rory Preddy](https://twitter.com/rorypreddy) | [Start here!](https://myignite.microsoft.com/sessions/15b37211-4a9b-4978-8e20-18c3f1c09818) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
+| [Aaron Powell](https://twitter.com/slace) | [Start here!](https://myignite.microsoft.com/sessions/b190dea0-8531-4cb4-8cb9-dc22fe98f356) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
+| [Inderdeep Singh Bajwa](https://github.com/InderdeepBajwa) | [Start here!](https://myignite.microsoft.com/sessions/86e9d0ac-839f-48cd-aff9-8c8600e44d19) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
 
 
 ## Continue learning
