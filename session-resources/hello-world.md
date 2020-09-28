@@ -6,9 +6,9 @@ Learning how to program can be intimidating. This session will help you say "Hel
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Shana Matthews](https://twitter.com/shanamatthews) | [Here](https://myignite.microsoft.com/sessions/1457f64b-1722-4379-bc76-5db87c619e20) | Coming Soon! |
-| [N R S S L Tarun Nanduri](https://www.linkedin.com/in/tarunnanduri) | Coming Soon! | Coming Soon! |
-| [Daniel Gomez](https://twitter.com/esdanielgomez) | Coming Soon! | Coming Soon! |
+| [Shana Matthews](https://twitter.com/shanamatthews) | [Start here!](https://myignite.microsoft.com/sessions/1457f64b-1722-4379-bc76-5db87c619e20) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
+| [N R S S L Tarun Nanduri](https://www.linkedin.com/in/tarunnanduri) | [Start here!](https://myignite.microsoft.com/sessions/bbbda8c8-ac72-4ab6-a3d5-06ff41e04858) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
+| [Daniel Gomez](https://twitter.com/esdanielgomez) | [Start here!](https://myignite.microsoft.com/sessions/30db5375-d345-4ce1-9a40-54be5179be89) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
 
 ## Continue learning
 
