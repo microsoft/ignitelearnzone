@@ -6,9 +6,9 @@ You have most likely heard about AI or Machine Learning, but what is it? In this
 
 | Presenter                                       | Recording      | Slide Deck |
 | ----------------------------------------------- | -------------- | ---------- |
-| [Cassie Breviu](https://twitter.com/cassieview) | [Start here!](https://myignite.microsoft.com/sessions/6e676b3b-9f54-43ec-9e2a-5cda1dd6664f) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
-| [CH Hanzaila Maqsood](https://www.linkedin.com/in/ch-hanzaila) | [Start here!](https://myignite.microsoft.com/sessions/7da425c0-4c01-4f1b-bf1f-e905ef682888) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
-| [Alexandru Petrescu](https://www.linkedin.com/in/askingalexander/) | [Start here!](https://myignite.microsoft.com/sessions/d92b82c5-e377-4bc7-8331-442d62a31f4d) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
+| [Cassie Breviu](https://twitter.com/cassieview) | [Start here!](https://myignite.microsoft.com/sessions/6e676b3b-9f54-43ec-9e2a-5cda1dd6664f) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN166) |
+| [CH Hanzaila Maqsood](https://www.linkedin.com/in/ch-hanzaila) | [Start here!](https://myignite.microsoft.com/sessions/7da425c0-4c01-4f1b-bf1f-e905ef682888) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN167) |
+| [Alexandru Petrescu](https://www.linkedin.com/in/askingalexander/) | [Start here!](https://myignite.microsoft.com/sessions/d92b82c5-e377-4bc7-8331-442d62a31f4d) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN168) |
 
 ## Continue learning
 
