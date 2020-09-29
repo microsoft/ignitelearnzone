@@ -6,9 +6,9 @@ GitHub has long served as one of the most popular collaboration tools for develo
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Sarah Guthals, PhD](https://twitter.com/drguthals) | [Start here!](https://myignite.microsoft.com/sessions/93f49a5f-71f9-4036-afcf-6cdcbb8abf05) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
-| [Nori Suzuki](https://twitter.com/szkn27) | [Start here!](https://myignite.microsoft.com/sessions/f6b328f7-0b00-44ff-a88b-c06409597783) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
-| [Arkodyuti Saha](https://twitter.com/arkodyutisaha), [Manbir Marwah](https://twitter.com/manbirmarwah), & [Khushboo Verma](https://twitter.com/khushbooverma_) | [Start here!](https://myignite.microsoft.com/sessions/970a02b6-6d90-4583-81dd-c23a2a556219) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
+| [Sarah Guthals, PhD](https://twitter.com/drguthals) | [Start here!](https://myignite.microsoft.com/sessions/93f49a5f-71f9-4036-afcf-6cdcbb8abf05) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN163) |
+| [Nori Suzuki](https://twitter.com/szkn27) | [Start here!](https://myignite.microsoft.com/sessions/f6b328f7-0b00-44ff-a88b-c06409597783) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN164) |
+| [Arkodyuti Saha](https://twitter.com/arkodyutisaha), [Manbir Marwah](https://twitter.com/manbirmarwah), & [Khushboo Verma](https://twitter.com/khushbooverma_) | [Start here!](https://myignite.microsoft.com/sessions/970a02b6-6d90-4583-81dd-c23a2a556219) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN165) |
 
 ## Continue learning
 
