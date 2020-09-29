@@ -6,9 +6,9 @@ Data science is a field that influences all aspects of our scientific community,
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Sarah Guthals, PhD](https://twitter.com/drguthals) | [Start here!](https://myignite.microsoft.com/sessions/d40e4b0f-c832-422f-949a-f82309253704) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
-| [Phantip Kokilanon](https://twitter.com/PhantipK) | [Start here!](https://myignite.microsoft.com/sessions/b0527d73-b179-4220-a096-cb48a160040e) | [See readme here](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
-| [Barnam Bora](https://twitter.com/barnambora) | [Start here!](https://myignite.microsoft.com/sessions/4c4ac56c-7575-4e52-8f8b-6787f2206fb1) | [See readme here](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
+| [Sarah Guthals, PhD](https://twitter.com/drguthals) | [Start here!](https://myignite.microsoft.com/sessions/d40e4b0f-c832-422f-949a-f82309253704) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN169) |
+| [Phantip Kokilanon](https://twitter.com/PhantipK) | [Start here!](https://myignite.microsoft.com/sessions/b0527d73-b179-4220-a096-cb48a160040e) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN170) |
+| [Barnam Bora](https://twitter.com/barnambora) | [Start here!](https://myignite.microsoft.com/sessions/4c4ac56c-7575-4e52-8f8b-6787f2206fb1) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN171) |
 
 ## Continue learning
 
