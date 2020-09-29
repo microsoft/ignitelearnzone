@@ -6,9 +6,9 @@ Ensuring smooth deployment of an application typically involves numerous people 
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Jay Gordon](https://twitter.com/jaydestro) | [Start here!](https://myignite.microsoft.com/sessions/a5d11266-313d-4a0c-908a-67b06cf18f1e) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
-| [Damian Brady](https://twitter.com/damovisa) | [Start here!](https://myignite.microsoft.com/sessions/80a34783-6c49-4e19-89da-e95b49935c4a) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
-| [Ilia Ryabukhin](https://www.linkedin.com/in/ilia-ryabukhin-830927162) | [Start here!](https://myignite.microsoft.com/sessions/c8177ead-a256-4418-bbf6-c0c909fb7199) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
+| [Jay Gordon](https://twitter.com/jaydestro) | [Start here!](https://myignite.microsoft.com/sessions/a5d11266-313d-4a0c-908a-67b06cf18f1e) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN160) |
+| [Damian Brady](https://twitter.com/damovisa) | [Start here!](https://myignite.microsoft.com/sessions/80a34783-6c49-4e19-89da-e95b49935c4a) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN161) |
+| [Ilia Ryabukhin](https://www.linkedin.com/in/ilia-ryabukhin-830927162) | [Start here!](https://myignite.microsoft.com/sessions/c8177ead-a256-4418-bbf6-c0c909fb7199) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN162) |
 
 ## Continue learning
 
