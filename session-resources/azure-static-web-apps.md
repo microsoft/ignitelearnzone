@@ -6,9 +6,9 @@
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Christopher Harrison](https://twitter.com/geektrainer) | [Start here!](https://myignite.microsoft.com/sessions/5bae2404-eccc-4e69-b967-78322e5aa4f2) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
-| [Shiny Zhu](https://twitter.com/shinyzhu) | [Start here!](https://myignite.microsoft.com/sessions/dec9facc-4495-4e2e-8624-8566882a0a86) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
-| [Korede Bashir](https://twitter.com/_bashirk) | [Start here!](https://myignite.microsoft.com/sessions/ebdfb1f1-f081-439d-8679-3995156d442f) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
+| [Christopher Harrison](https://twitter.com/geektrainer) | [Start here!](https://myignite.microsoft.com/sessions/5bae2404-eccc-4e69-b967-78322e5aa4f2) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN157) |
+| [Shiny Zhu](https://twitter.com/shinyzhu) | [Start here!](https://myignite.microsoft.com/sessions/dec9facc-4495-4e2e-8624-8566882a0a86) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN158) |
+| [Korede Bashir](https://twitter.com/_bashirk) | [Start here!](https://myignite.microsoft.com/sessions/ebdfb1f1-f081-439d-8679-3995156d442f) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN159) |
 
 ## Continue learning
 
