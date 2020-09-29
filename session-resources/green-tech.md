@@ -8,7 +8,7 @@ What does it mean to be a 'green' developer? In this session you'll learn some w
 | - | - | - |
 | [Jen Looper](https://twitter.com/jenlooper) | [Start here!](https://myignite.microsoft.com/sessions/e688fdbe-73d6-45d9-bf8b-f7033b2741ab) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN148) |
 | [Ayush Chauhan](https://twitter.com/heyayushh) | [Start here!](https://msit.microsoftstream.com/video/9f51a1ff-0400-96f3-2741-f1eaff04eeb4) | [Coming soon.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
-| [Antony Diaz](https://twitter.com/AntonyDiS) | [Start here!](https://myignite.microsoft.com/sessions/d3a5baf8-e5da-4cb9-ba23-dfeb663eb0ec) | [Slides heree.](https://medius.studios.ms/video/asset/PPT/IG20-LRN150) |
+| [Antony Diaz](https://twitter.com/AntonyDiS) | [Start here!](https://myignite.microsoft.com/sessions/d3a5baf8-e5da-4cb9-ba23-dfeb663eb0ec) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN150) |
 
 ## Continue learning
 
