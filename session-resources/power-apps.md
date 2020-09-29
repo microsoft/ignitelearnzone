@@ -6,9 +6,9 @@ Power Apps empowers everyday people without a Computer Science degree to solve p
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Tasha Scott](https://twitter.com/TashasEv) | [Start here!](https://myignite.microsoft.com/sessions/1763d6cf-32e0-4792-8ff7-a70096ef634d) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
-| [Megan Mallin](https://twitter.com/MegMallin) | [Start here!](https://twitter.com/TashasEv) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
-| [Dawude Iddrisu](https://twitter.com/dawoodiddris) | [Start here!](https://twitter.com/TashasEv) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
+| [Tasha Scott](https://twitter.com/TashasEv) | [Start here!](https://myignite.microsoft.com/sessions/1763d6cf-32e0-4792-8ff7-a70096ef634d) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN151) |
+| [Megan Mallin](https://twitter.com/MegMallin) | [Start here!](https://twitter.com/TashasEv) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN152) |
+| [Dawude Iddrisu](https://twitter.com/dawoodiddris) | [Start here!](https://twitter.com/TashasEv) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN153) |
 
 ## Continue learning
 
