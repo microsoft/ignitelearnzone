@@ -6,9 +6,9 @@ The world we live in is constantly evolving; our healthcare system is grappling 
 
 | Presenter | Recording | Slide Deck |
 | - | - | - |
-| [Lee Stott](https://twitter.com/lee_stott) | [Start here!](https://myignite.microsoft.com/sessions/545d828d-9d32-4437-a036-b7229a175ad7) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
-| [Olumide Ogundare](https://www.linkedin.com/in/olumideogundare/) | [Start here!](https://myignite.microsoft.com/sessions/d6ad8ca3-858b-4b9a-9c49-7c8b059d2fe7) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
-| [Yash Jain](https://www.linkedin.com/in/yjain21/) | [Start here!](https://myignite.microsoft.com/sessions/b9c37809-66e7-4b2c-bdc6-c7eddccfc990) | [See readme here.](https://mybuild.azureedge.net/images/resourceDownloader.zip) |
+| [Lee Stott](https://twitter.com/lee_stott) | [Start here!](https://myignite.microsoft.com/sessions/545d828d-9d32-4437-a036-b7229a175ad7) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN154) |
+| [Olumide Ogundare](https://www.linkedin.com/in/olumideogundare/) | [Start here!](https://myignite.microsoft.com/sessions/d6ad8ca3-858b-4b9a-9c49-7c8b059d2fe7) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN156) |
+| [Yash Jain](https://www.linkedin.com/in/yjain21/) | [Start here!](https://myignite.microsoft.com/sessions/b9c37809-66e7-4b2c-bdc6-c7eddccfc990) | [Slides here.](https://medius.studios.ms/video/asset/PPT/IG20-LRN155) |
 
 ## Continue learning
 
